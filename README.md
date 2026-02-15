@@ -36,7 +36,7 @@ The generator ensures:
 
 ```bash
 python password_generator.py
-
+```
 ---
 
 ### 📖 What I Learned
